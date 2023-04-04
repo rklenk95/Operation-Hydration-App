@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Operation Hydration</string>
+    <string name="health_intro"> Health Benefits from drinking enough water:</string>
+
+    <string name="text_with_bullet">
+        \u2022 Drinking Water Helps Maintain the Balance of Body Fluids
+        \n\n\u2022 Water Can Help Reduce Calorie Intake
+        \n\n\u2022 Water Helps Energize Muscles
+        \n\n\u2022 Water Helps Keep Skin healthy
+        \n\n\u2022 Water Helps Maintain Normal Bowel Function
+        \n\n\u2022 Water Helps Your Kidneys function
+    </string>
+</resources>
